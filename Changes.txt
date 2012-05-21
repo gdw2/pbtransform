@@ -1,0 +1,3 @@
+A list of changes in so far as I remember them.
+
+First version for JXLayer  4.0
